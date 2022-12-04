@@ -34,7 +34,7 @@ WebScraping - [Site do Dieese](https://www.dieese.org.br/analiseicv/tarifasPubli
 <b>Passo 5:</b> Analisando os dados e criando visualizações.
 <br>
 <br>
-<b>Jupyter Notebook:</b> [Tarifas Públicas - Dieese](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/Tarifas_Publicas_DIEESE.ipynb)
+<b>Jupyter Notebook:</b> [Salário Mínimo - Brasil](https://github.com/MonteiroOscar98/Salario-Minimo-Brasil/blob/main/Salario_Minimo_Brasil.ipynb)
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
